@@ -5,8 +5,6 @@ Conner Awald and Evan Zhang
 TO-DO: The program does not exit gracefully when reaching the end of the file. 
 We should add a character that indicates the end of the file to the program.
 
-Also need to add bluetooth control so the user can select a file to play from preinstalled songs
-maybe also add stop start controls?
 
 */
 
